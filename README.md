@@ -1,3 +1,4 @@
+Show the Project https://data-science-pipeline-dashboard.streamlit.app/
 # 🤖 AI EDA Assistant
 
 A smart Exploratory Data Analysis (EDA) assistant that automates data profiling, visualization, and summarization using Python and AI-powered tools.
